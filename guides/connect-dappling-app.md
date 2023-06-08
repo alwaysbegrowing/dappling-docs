@@ -23,3 +23,7 @@ dAppling uses a custom Github application to access and deploy users' projects. 
    * You can choose to install the app on all repositories, or select the specific repositories you wish to deploy through dAppling by selected the "Only select repositories" option and choosing the relevant repositories.
    * Once you are satisfied with your selection, click "Install & Authorize" and you will be redirected back to \[dappling.network]\(https://dappling.network)
 5. You are now connected! Sometimes, it takes a minute or two for the app to recognize your installation.&#x20;
+
+
+
+:cactus:_Fun Fact: Mint is a very hardy plant and if not controlled, can take over a garden. Interestingly, planting mint near entrances and around the house can help deter pests like mice and flies._

@@ -28,3 +28,7 @@ Once you have the dAppling app connected to a Github account, you are ready to d
 6.  Deploy!&#x20;
 
     <figure><img src="../.gitbook/assets/Screenshot 2023-06-05 at 4.22.49 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+:cactus:_Fun Fact: A single teaspoon of garden soil can hold up to one billion bacteria along with various species of fungi, protozoa, and nematodes. These microorganisms help in nutrient cycling and maintaining soil fertility._

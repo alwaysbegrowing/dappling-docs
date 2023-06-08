@@ -43,3 +43,7 @@ Since there's no central authority in IPFS, it's much harder to censor or contro
 ### Conclusion
 
 IPFS represents a significant step forward in the way we handle data on the web. With its decentralized design, it ensures more reliable, efficient, and resilient data storage and transfer. The system's resistance to censorship and support for version control also contributes to a more democratic and open internet. Though there are challenges in implementing and operating within the IPFS network, the potential benefits are substantial and well-suited to Web3 protocols.&#x20;
+
+
+
+:sunflower:_Fun Fact: The tallest sunflower ever recorded was over 30 feet (9.17 meters) tall. It was grown by Hans-Peter Schiffer in Germany in 2014._

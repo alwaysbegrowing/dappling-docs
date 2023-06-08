@@ -19,3 +19,7 @@ Once you have deployed a site, you can configure the domain from the dAppling UI
 
 
 5. Go to where your domain is registered and update the configurations to reflect the CNAME or A NAME added to dAppling.&#x20;
+
+
+
+:cactus:_Fun Fact: Plants can communicate with each other through their roots and chemical signals. When a plant is under attack, for example, it releases volatile organic compounds that can warn other plants of the danger._

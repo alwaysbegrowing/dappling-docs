@@ -13,3 +13,5 @@
     * We love questions/feedback! _(not so much issues)_&#x20;
 
     We are here to help! Simply dm us on [Twitter](https://twitter.com/dApplingNetwork). Our goal is to bring you an amazing, easy-to-use product so please let us know if you need help, have a suggestion, or would like to chat :smile:&#x20;
+
+:cactus:_Fun Fact: There are very few black flowers in nature. Most of them are actually very deep shades of purple or red. The Black Dahlia is one of the darkest flowers that exist, although even it is not truly black._

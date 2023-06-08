@@ -26,3 +26,7 @@
 
 
     <figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 1.16.24 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+:cactus:_Fun Fact: In botanical terms, a berry is a fleshy fruit produced from a single ovary. By that definition, bananas, tomatoes, and kiwis are berries while strawberries and raspberries are not._

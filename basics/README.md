@@ -23,3 +23,7 @@ dAppling's dual-model approach caters to a broad range of hosting needs. Its sup
 ### Conclusion
 
 dAppling represents a significant step forward in web hosting, combining the strengths of both centralized and decentralized systems. It's designed to support the next generation of web applications, offering flexibility, resilience, and alignment with emerging web3 protocols. As the digital landscape continues to evolve, platforms like dAppling are poised to lead the way in hosting innovation.
+
+
+
+:cactus: _Fun Fact: Research has shown that having plants around can improve concentration and productivity by up to 15%, reduce stress levels, and boost mood. This makes gardening an excellent mental health activity._

@@ -47,3 +47,7 @@ In a decentralized network, data can be served from the geographically nearest n
 The decentralization of frontend deployments represents an evolution of the web development landscape. By distributing resources across multiple nodes, these deployments offer enhanced reliability, improved security, trustlessness, resistance to censorship, and lower latency.
 
 While there are still challenges to be faced in managing and scaling these systems, dAppling is taking advantage of the power of decentralization to provide a quintessentially Web3 hosting experience.
+
+
+
+:cactus:_Fun Fact: Regular gardening can burn up to 330 calories an hour, which is more than walking at a moderate pace. It's also been found to decrease the risk of dementia by up to 36% in some studies._

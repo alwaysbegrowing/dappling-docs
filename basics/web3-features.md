@@ -10,3 +10,7 @@ dAppling aims to create a web hosting service specifically geared toward Web3 pr
 COMING SOON:
 
 1.
+
+
+
+:cactus: _Fun Fact: Some studies have shown that plants can respond positively to certain sounds or types of music, leading to faster and healthier growth. Classical music, in particular, seems to have a beneficial effect._
