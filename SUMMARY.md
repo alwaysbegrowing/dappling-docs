@@ -16,6 +16,6 @@
   * [Verify a Site CID](guides/verify-a-site-cid.md)
   * [Domain Configuration](guides/domain-configuration.md)
   * [Verify Smart Contracts](guides/verify-smart-contracts.md)
-* [Community](community/README.md)
+* [🖇 Community](community/README.md)
   * [Twitter](https://twitter.com/dApplingNetwork)
   * [Github](https://github.com/alwaysbegrowing)
