@@ -7,7 +7,7 @@
 3. What does deploying a site through dAppling cost?
    * Right now, dAppling is entirely free to use. What a great price!
 4. If decentralized deployments are so great, why does dAppling still use centralized infrastructure?
-   * dAppling fully believes in the future and power of IPFS and decentralized web hosting. However, the current state of web hosting necessitates our use of centralized deployments. IPFS is constantly growing, and with the development and growth of dAppling, we hope to further that growth. Once web hosting can subsist entirely on a decentralized infrastructure, dAppling will make that switch.
+   * dAppling fully believes in the future and power of decentralized web hosting. However, the current state of web hosting necessitates our use of centralized deployments. Decentralized infrastructure is constantly growing, and with the development and growth of dAppling, we hope to further that growth. Once web hosting can subsist entirely on a decentralized infrastructure, dAppling will make that switch.
 5.  I have a question/issue/feedback.
 
     * We love questions/feedback! _(not so much issues)_&#x20;
