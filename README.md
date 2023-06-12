@@ -8,7 +8,7 @@ Welcome.
 
 ## Overview
 
-dAppling is a [web hosting service](https://en.wikipedia.org/wiki/Web\_hosting\_service) built specifically for Web3 protocols. We provide both centralized and decentralized deployments for all sites deployed through dAppling.
+dAppling is a [web hosting service](https://en.wikipedia.org/wiki/Web\_hosting\_service) built specifically for Web3 protocols. We provide an easy-to-use, quick interface to create decentralized deployments.
 
 ## Mission
 

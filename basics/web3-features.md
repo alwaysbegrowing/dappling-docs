@@ -9,7 +9,7 @@ dAppling aims to create a web hosting service specifically geared toward Web3 pr
 
 COMING SOON:
 
-1.
+1. Smart contract controlled frontends
 
 
 

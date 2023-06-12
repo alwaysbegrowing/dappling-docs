@@ -1,28 +1,24 @@
 # 🌐 Basics
 
-### Overview
+### Overview&#x20;
 
-dAppling is an innovative web hosting platform that caters to the evolving needs of the digital world. By offering both centralized and decentralized deployments, dAppling ensures a versatile and resilient hosting environment. This platform is particularly targeted towards web3 protocols, making it a preferred choice for modern web applications.&#x20;
+dAppling is an innovative web hosting platform that caters to the evolving needs of the digital world. By offering decentralized deployments, dAppling ensures a versatile and resilient hosting environment. This platform is particularly targeted towards web3 protocols, making it a preferred choice for modern web applications.
 
-### Understanding dAppling
+### Understanding dAppling&#x20;
 
-dAppling provides [web hosting services](../key-concepts/web-hosting.md), with a specific focus on web3 protocols. It uniquely offers both centralized and decentralized hosting options, providing users the flexibility to choose the model that best suits their needs. Centralized hosting on dAppling is facilitated through Amazon Web Services (AWS), while the decentralized model is powered by the [InterPlanetary File System (IPFS)](../key-concepts/ipfs.md). All sites are deployed using both the centralized and [decentralized](../key-concepts/decentralization.md) frameworks, allowing users to take advantage of both models simultaneously.
+dAppling provides web hosting services with a focus on decentralized deployments. It utilizes centralized infrastructure to ensure efficient domain management, content delivery network (CDN) capabilities, and a seamless hosting experience. By combining the advantages of decentralized deployments with the reliability of centralized infrastructure, dAppling offers a powerful hosting solution.
 
-### Centralized Hosting on dAppling
+### Decentralized Hosting on dAppling&#x20;
 
-Centralized hosting on dAppling uses AWS, a robust and globally recognized cloud service provider. This option ensures a stable hosting environment with powerful features, such as scalability, reliability, and comprehensive security measures. It is particularly suitable for applications that require high performance and reliability.
+dAppling's decentralized hosting leverages the[ InterPlanetary File System (IPFS)](../key-concepts/ipfs.md) to provide a robust and distributed hosting environment. With decentralized hosting, data is not tied to a specific location but can be served by any node in the network. This approach enhances application resilience, privacy, and resistance to censorship.
 
-### Decentralized Hosting on dAppling
+### Importance of dAppling&#x20;
 
-For applications looking to leverage the benefits of decentralization, dAppling provides hosting services using IPFS. This decentralized approach ensures that data isn't tied to a specific location and can be served by any node in the network. This model enhances the resilience of the application, as there is no single point of failure. It also offers improved privacy and resistance to censorship, which are inherent benefits of decentralized systems.
+dAppling's focus on decentralized deployments and utilization of centralized infrastructure ensures a comprehensive hosting solution. By combining the benefits of decentralization with the efficiency and reliability of centralized systems, dAppling caters to a broad range of hosting needs. As the demand for web3 protocols and decentralized models increases, dAppling's unique approach positions it as a versatile and future-ready hosting platform.
 
-### Importance of dAppling
+### Conclusion&#x20;
 
-dAppling's dual-model approach caters to a broad range of hosting needs. Its support for web3 protocols, along with the options for both centralized and decentralized hosting, make it a versatile and future-ready platform. As more applications move towards web3 protocols and decentralized models, dAppling's unique approach offers a platform that aligns with these evolving trends.
-
-### Conclusion
-
-dAppling represents a significant step forward in web hosting, combining the strengths of both centralized and decentralized systems. It's designed to support the next generation of web applications, offering flexibility, resilience, and alignment with emerging web3 protocols. As the digital landscape continues to evolve, platforms like dAppling are poised to lead the way in hosting innovation.
+dAppling represents a significant advancement in web hosting by offering decentralized deployments that utilize centralized infrastructure for domain management, CDN capabilities, and an optimized hosting experience. It is designed to support the next generation of web applications, providing flexibility, resilience, and alignment with emerging web3 protocols. As the digital landscape continues to evolve, dAppling is poised to lead the way in hosting innovation.
 
 
 

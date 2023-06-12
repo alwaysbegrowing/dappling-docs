@@ -24,10 +24,6 @@ Decentralized frontend deployments address these issues by ensuring no single en
 
 Decentralized deployments inherently eliminate single points of failure because the application and its data are not stored on one single server, but spread across multiple nodes, or computers. Even if one node fails, others can still serve the application, providing increased availability and reliability.
 
-#### Improved Security
-
-In a decentralized network, the risk of a data breach is significantly reduced. An attacker would have to compromise a majority of nodes in the network to access the data, which is highly unlikely and requires much more resources than attacking a single centralized server.
-
 #### Resistance to Censorship
 
 Because there is no central authority that controls a decentralized network, it is virtually impossible for an entity to manipulate or censor information. This ensures a free and open web where information is democratically distributed.&#x20;

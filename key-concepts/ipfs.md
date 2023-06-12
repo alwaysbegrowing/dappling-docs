@@ -2,7 +2,7 @@
 
 ### Overview
 
-The [InterPlanetary File System (IPFS) ](https://ipfs.tech)is a protocol and network designed to create a content-addressable, peer-to-peer method of storing and sharing data in a distributed file system. dAppling utilizes its decentralized design which presents numerous benefits, making it a valuable tool in Web3 frontend development.&#x20;
+The [InterPlanetary File System (IPFS) ](https://ipfs.tech)is a protocol and network designed to create a content-addressable, peer-to-peer method of storing and sharing data in a distributed file system. Basically, IPFS provides a decentralized infrastructure for distributing content, such as files that comprise websites. dAppling utilizes its decentralized design which presents numerous benefits, making it a valuable tool in Web3 frontend development.&#x20;
 
 ### Understanding IPFS
 

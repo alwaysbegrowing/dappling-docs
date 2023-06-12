@@ -24,14 +24,6 @@ With the growth of blockchain technology such as custom blockchains and smart co
 
 One of the primary benefits of web hosting is the ability to make a website accessible 24/7. At dAppling, with our use of both centralized and decentralized hosting infrastructure, we can guarantee a high uptime, meaning your website will remain accessible without interruptions 99% of the time. Even if centralized services go down, the nature of decentralization ensures your website remains accessible.
 
-#### Data Management and Control
-
-Web hosting services allow complete control over content management. Unlike third-party platforms, where you may be restricted in how you design or display content, dAppling lets you manage your data and how it's presented.
-
-#### SEO Opportunities
-
-Having your website hosted allows for more SEO strategies that can help improve your site's visibility in search engines. This increased visibility can result in higher traffic to your website.
-
 #### Scalability
 
 As your business or website grows, your web hosting services can grow with it. The nature of decentralization allows for easy scalability - as more nodes are added, websites can be served faster and more efficiently.

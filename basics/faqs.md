@@ -4,11 +4,16 @@
    * Check out our [Guides](../guides/) section for step-by-steps on interacting with dAppling. If none of our guides meet your needs, or you still have questions, send us a dm on [Twitter](https://twitter.com/dApplingNetwork).
 2. What is.....?
    * Check out our [Key Concepts](../key-concepts/) section for a brief overview of some important concepts. Something missing? Connect with us on [Twitter](https://twitter.com/dApplingNetwork) to let us know!
-3. What does deploying a site through dAppling cost?
+3.  My site deployed successfully, but when I try to access the deployment URL, I get a 504 error.&#x20;
+
+    * This can happen for a variety of reasons, including the IPFS node pinning your CID being down or out of service, issues with the IPFS gateway, or a high network latency between the you and the node. This does not mean that your content is lost or inaccessible! One potential solution is to use a different [gateway](https://docs.ipfs.tech/concepts/ipfs-gateway/#gateway-providers). Select a gateway from this [list](https://ipfs.github.io/public-gateway-checker/) and append it to your url.&#x20;
+
+    For example, if the url that is timing out is: https://ipfs.io/ipfs/{CID}, with Cloudflare, your new url would be: https://cloudflare-ipfs.com/ipfs/{CID}/
+4. What does deploying a site through dAppling cost?
    * Right now, dAppling is entirely free to use. What a great price!
-4. If decentralized deployments are so great, why does dAppling still use centralized infrastructure?
-   * dAppling fully believes in the future and power of decentralized web hosting. However, the current state of web hosting necessitates our use of centralized deployments. Decentralized infrastructure is constantly growing, and with the development and growth of dAppling, we hope to further that growth. Once web hosting can subsist entirely on a decentralized infrastructure, dAppling will make that switch.
-5.  I have a question/issue/feedback.
+5. If decentralized deployments are so great, why does dAppling still use centralized infrastructure?
+   * dAppling fully believes in the future and power of decentralized web hosting. However, the current state of web hosting necessitates our use of centralized services. Decentralized infrastructure is constantly growing, and with the development and growth of dAppling, we hope to further that growth. Once web hosting can subsist entirely on a decentralized infrastructure, dAppling will make that switch.
+6.  I have a question/issue/feedback.
 
     * We love questions/feedback! _(not so much issues)_&#x20;
 

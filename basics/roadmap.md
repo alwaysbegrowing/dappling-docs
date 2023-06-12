@@ -4,7 +4,7 @@ dAppling is currently in its Alpha stage, but is quickly approaching Beta as mor
 
 ## ~~Alpha~~
 
-* [x] &#x20;MVP with decentralized and centralized deployments using IPFS and AWS respectively
+* [x] &#x20;MVP of decentralized deployments using IPFS and AWS&#x20;
 * [x] Provide support for users to use their Web3 wallets to verify their IPFS deployed sites
 * [x] Provide support for DNS configuration within dAppling
 * [x] Integrate dAppling with Github to support Preview Builds in pull requests
@@ -17,8 +17,8 @@ dAppling is currently in its Alpha stage, but is quickly approaching Beta as mor
 
 ## Launch
 
-* [ ] &#x20;Integrate with other Web3 infrastructure protocols providing decentralized storage and computing
+*   [ ] &#x20;Integrate with other Web3 infrastructure protocols providing decentralized storage and computing
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 :cactus:_Fun Fact: Many traditional cultures believe in planting according to lunar phases, a practice called "moon gardening". Some gardeners still swear by this method today, suggesting it can affect the growth of plants and their ability to absorb nutrients._

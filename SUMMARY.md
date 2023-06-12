@@ -9,7 +9,7 @@
   * [Web Hosting](key-concepts/web-hosting.md)
   * [Decentralization](key-concepts/decentralization.md)
   * [IPFS](key-concepts/ipfs.md)
-  * [Domain Management](key-concepts/domain-management.md)
+  * [Access Points](key-concepts/access-points.md)
 * [🪴 Guides](guides/README.md)
   * [Connect dAppling App](guides/connect-dappling-app.md)
   * [Deploy a New Project](guides/deploy-a-new-project.md)
