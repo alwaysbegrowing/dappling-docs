@@ -15,7 +15,7 @@
    * dAppling fully believes in the future and power of decentralized web hosting. However, the current state of web hosting necessitates our use of centralized services. Decentralized infrastructure is constantly growing, and with the development and growth of dAppling, we hope to further that growth. Once web hosting can subsist entirely on a decentralized infrastructure, dAppling will make that switch.
 6.  I have a question/issue/feedback.
 
-    * We love questions/feedback! _(not so much issues)_&#x20;
+    * We love questions/feedback! _(not so much issues - although we do love improving our services)_&#x20;
 
     We are here to help! Simply dm us on [Twitter](https://twitter.com/dApplingNetwork). Our goal is to bring you an amazing, easy-to-use product so please let us know if you need help, have a suggestion, or would like to chat :smile:&#x20;
 
