@@ -17,6 +17,10 @@
 
     * We love questions/feedback! _(not so much issues - although we do love improving our services)_&#x20;
 
-    We are here to help! Simply dm us on [Twitter](https://twitter.com/dApplingNetwork). Our goal is to bring you an amazing, easy-to-use product so please let us know if you need help, have a suggestion, or would like to chat :smile:&#x20;
+    We are here to help! Simply use our Crisp chatbot in the bottom lefthand corner of any screen on [dappling.network](https://dappling.network) or dm us on [Twitter](https://twitter.com/dApplingNetwork). Our goal is to bring you an amazing, easy-to-use product so please let us know if you need help, have a suggestion, or would like to chat :smile:&#x20;
+7. I don't see the chatbot and I have a problem!
+   * Some plugins, extensions, and browsers interfere with Crisp and its chatbot. If it doesn't render, try using a private/incognito window, a different browser, or turn off extensions. If it still doesn't load, dm us on [Twitter](https://twitter.com/dApplingNetwork).&#x20;
+
+
 
 :cactus:_Fun Fact: There are very few black flowers in nature. Most of them are actually very deep shades of purple or red. The Black Dahlia is one of the darkest flowers that exist, although even it is not truly black._
