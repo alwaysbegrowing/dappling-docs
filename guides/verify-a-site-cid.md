@@ -1,8 +1,10 @@
 # Verify a Site CID
 
-1.  Within [dappling.network](https://dappling.network), navigate to the project you want to verify.&#x20;
+1. Within [dappling.network](https://dappling.network), navigate to the deployments tab of the project you want to verify.&#x20;
 
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-07 at 6.43.39 PM (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+1. Select the deployment with the CID you want to verify.
 2.  Select "Verify".&#x20;
 
     <figure><img src="../.gitbook/assets/Screenshot 2023-06-07 at 6.43.39 PM.png" alt=""><figcaption></figcaption></figure>
