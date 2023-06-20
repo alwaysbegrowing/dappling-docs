@@ -1,5 +1,5 @@
 ---
-description: What is dAppling?
+description: What is dAppling Network?
 ---
 
 # 🌱 Introduction
