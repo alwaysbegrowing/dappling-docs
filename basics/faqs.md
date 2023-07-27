@@ -1,7 +1,7 @@
 # FAQs
 
 1. How do I......?
-   * Check out our [Guides](../guides/) section for step-by-steps on interacting with dAppling. If none of our guides meet your needs, or you still have questions, send us a dm on [Twitter](https://twitter.com/dApplingNetwork) or message us through our Crisp chatbot.
+   * Check out our [Guides](../guides/) section for step-by-steps on interacting with dAppling. If none of our guides meet your needs, or you still have questions, send us a dm on [Twitter](https://twitter.com/dApplingNetwork) or message us through our Intercom chatbot.
 2. What is.....?
    * Check out our [Key Concepts](../key-concepts/) section for a brief overview of some important concepts. Something missing? Connect with us on [Twitter](https://twitter.com/dApplingNetwork) to let us know!
 3.  My site deployed successfully, but when I try to access the deployment URL, I get a 504 error.&#x20;
@@ -17,9 +17,9 @@
 
     * We love questions/feedback! _(not so much issues - although we do love improving our services)_&#x20;
 
-    We are here to help! Simply use our Crisp chatbot in the bottom right corner of any screen on [dappling.network](https://dappling.network) or dm us on [Twitter](https://twitter.com/dApplingNetwork). Our goal is to bring you an amazing, easy-to-use product so please let us know if you need help, have a suggestion, or would like to chat :smile:&#x20;
+    We are here to help! Simply use our Intercom chatbot in the bottom right corner of any screen on [dappling.network](https://dappling.network) or dm us on [Twitter](https://twitter.com/dApplingNetwork). Our goal is to bring you an amazing, easy-to-use product so please let us know if you need help, have a suggestion, or would like to chat :smile:&#x20;
 7. I don't see the chatbot and I have a problem!
-   * Some plugins, extensions, and browsers interfere with Crisp and its chatbot. If it doesn't render, try using a private/incognito window, a different browser, or turn off extensions. If it still doesn't load, dm us on [Twitter](https://twitter.com/dApplingNetwork).&#x20;
+   * Some plugins, extensions, and browsers interfere with Intercom and its chatbot. If it doesn't render, try using a private/incognito window, a different browser, or turn off extensions. If it still doesn't load, dm us on [Twitter](https://twitter.com/dApplingNetwork).&#x20;
 
 
 
