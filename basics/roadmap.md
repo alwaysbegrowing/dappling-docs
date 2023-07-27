@@ -19,7 +19,7 @@ dAppling is currently in its Beta stage, and is quickly approaching Launch as mo
 
 *   [ ] &#x20;Integrate with other Web3 infrastructure protocols providing decentralized storage and computing
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

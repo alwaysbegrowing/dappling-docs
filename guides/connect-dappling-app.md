@@ -1,28 +1,20 @@
 # Connect dAppling App
 
-dAppling uses a custom Github application to access and deploy users' projects. While logging in to our application allows you to connect your Github account to dAppling, for deployments, dAppling must have access to your Github repositories. Therefore, to deploy a site through dAppling, you must first give the dAppling app access to the repository you wish to deploy.
+#### Connecting your Github App
 
+Get started by clicking the “Deploy in 15s” button or the “Login” at the top.
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-1.  Navigate to [dappling.network](https://dappling.network) and select "Log in & Deploy"
+You will be presented with a callout to connect your Github Account.
 
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-05 at 4.03.01 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
+We currently support projects on GitHub. Sign up for an account on the [GitHub website](https://github.com/) if you haven’t already. Their login flow is pretty awesome. After you have your shiny new account, or your existing account, you should see the login screen as well as the subsequent authorization screen.
 
-2.  Authorize dAppling to access your Github account.&#x20;
+![](<../.gitbook/assets/image (4).png>)                              ![](<../.gitbook/assets/image (5).png>)
 
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-05 at 4.03.15 PM.png" alt=""><figcaption></figcaption></figure>
-3.  Select "Add Github Account". &#x20;
-
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-05 at 4.07.39 PM.png" alt=""><figcaption></figcaption></figure>
-
-    *   If you have already connected another Github account, or are part of a team/organization using dAppling's app, you should see previously connected accounts listed. Select "Configure Github App" from the account drop-down menu to add another Github account.&#x20;
-
-        <figure><img src="../.gitbook/assets/Screenshot 2023-06-05 at 2.09.37 PM (1).png" alt=""><figcaption></figcaption></figure>
-4. Install & authorize the dAppling app to access your Github repositories. ![](<../.gitbook/assets/image (8).png>)
-   * You can choose to install the app on all repositories, or select the specific repositories you wish to deploy through dAppling by selected the "Only select repositories" option and choosing the relevant repositories.
-   * Once you are satisfied with your selection, click "Install & Authorize" and you will be redirected back to \[dappling.network]\(https://dappling.network)
-5. You are now connected! Sometimes, it takes a minute or two for the app to recognize your installation.&#x20;
+We request permission to complete actions on your behalf like downloading the source code, adding comments to PRs and seeing your email. Shortly after you should be re-directed to our site. If not, head back over to [dappling.network](http://dappling.network). You will be presented with your dashboard!
 
 
 

@@ -1,24 +1,51 @@
 # Domain Configuration
 
-Once you have deployed a site, you can configure the domain from the dAppling UI. dAppling allows for Alias Name (A NAME) and Canonical Name (CNAME) configuration.
+To add new domains to your project, and to have your new code pushed to them, head over to the project’s domains tab. By default, there is a domain configured for you under the [dappling.network](http://dappling.network) domain.
 
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
+#### Adding a custom domain
 
-1. Navigate to [dAppling's projects page](https://dappling.network).
-2.  Select the project you want to configure.&#x20;
+To add a new domain, put the desired domain. Maybe try with a subdomain of `ipfs`. For example, I would like to add a domain for my site [splitcapta.in](http://splitcapta.in). I would:
 
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-05 at 5.27.42 PM (1).png" alt=""><figcaption></figcaption></figure>
-3.  Navigate to the Domains tab.&#x20;
+1. Enter in [ipfs.splitcapta.in](http://ipfs.splitcapta.in) \*\*\*\*in the domains input
+2. Press “Add”
+3. Wait for the configuration to load
 
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-05 at 5.29.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
+4. Head over to the domain registrar. For my case, I use Namecheap, but this process would be similar for different registrars. You will have to see how to add these DNS settings on a case-by-case basis. Look at your DNS documentation to figure out how to do it if you’re not using Namecheap.
 
-4.  Enter the domain you want to configure and press "Add".&#x20;
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-05 at 5.32.59 PM.png" alt=""><figcaption></figcaption></figure>
+Here is the resulting DNS settings for Namecheap. Notice the “name” is called “Host” and “Value” is called “Value”.
 
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-5. Go to where your domain is registered and update the configurations to reflect the CNAME or A NAME added to dAppling.&#x20;
+After the records propagate (this might take a while), the domain will report as validated, but again, the code will not exist at the URL until the next production deployment.
+
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
+To do this, head over to the deployments tab or push to your “production” branch on GitHub. The new domain should be shown in the project page. See [Create Deployments](create-deployments.md) for more information about subsequent deployments.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+After that build succeeds, you can see the code at the configured domain: [https://ipfs.splitcapta.in](https://ipfs.splitcapta.in)
+
+#### Google Domains
+
+The same process as above, but add records:
+
+1. navigate the the DNS section
+2. make sure you are on default name servers
+   1. if not, you will have to change the DNS records wherever the custom name servers are
+3. click “manage custom records”
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+Then, add the two new CNAME records and click “save”
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -1,34 +1,19 @@
 # Verify a Site CID
 
-1. Within [dappling.network](https://dappling.network), navigate to the deployments tab of the project you want to verify.&#x20;
+Every deployment is “pinned” to the decentralized IPFS service. This means that anyone can access it through a network of nodes that share these pieces of data. Since each website has a unique “hash” of the data within, we can leverage cryptographic signatures letting you “verify” that the code deployed is the code you intended to deploy.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+To get started, head over to the deployment page. Each deployment is verified individually as even a small change will completely change the hash.
 
-2. Select the deployment with the CID you want to verify.
-3.  Select "Verify".&#x20;
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-07 at 6.43.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-4.  Connect your web3 wallet.&#x20;
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 1.18.27 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-
-5.  Confirm your connected wallet address and verify the CID.&#x20;
-
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-
-6. Follow the steps within your wallet to sign the message.
-7.  Once the message with the CID is successfully signed, verification is completed. The hash is now publicly available.&#x20;
-
-    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-
-
-    <figure><img src="../.gitbook/assets/Screenshot 2023-06-08 at 1.16.24 PM.png" alt=""><figcaption></figcaption></figure>
-
-
+If you click on “See Verification” [Signer.is](https://signer.is/verify/JTdCJTIyY2xhaW1lZF9tZXNzYWdlJTIyJTNBJTIyYmFmeWJlaWFwMzRxNXV4d3p0ZGI3ZHRrZWZzM3E1aWpjcG5xM3Zsdnp0cDRrb2hya3BjZ2kyNnV2aWUlMjIlMkMlMjJzaWduZWRfbWVzc2FnZSUyMiUzQSUyMjB4ZmYwM2EwYTMzYmVkOTkwZTJmZDMyZGViN2FmZjNmY2I4OWFmOTJiOTQzYWI3MjA3NTc0M2E5ZjQ3NGFlZDc1ODIwMTYyOGUwNzgxMjdiNjQzYzQwNTdlMWJkNGJjNmQ2ZDFjNGZlMTllMGZlODEyNTBlNDFiYmE3YTkzNDJmZTMxYyUyMiUyQyUyMmNsYWltZWRfc2lnbmF0b3J5JTIyJTNBJTIyMHhjMTNlREE2YkZGNjY5YjM4NTg2NTBiYzM0RGQ4ODAyZUY5M0QzMUU5JTIyJTdE) should open up with the verified signature for your deployment’s CID. this can be shared with people interested in seeing the verified deployment signature.
 
 :cactus:_Fun Fact: In botanical terms, a berry is a fleshy fruit produced from a single ovary. By that definition, bananas, tomatoes, and kiwis are berries while strawberries and raspberries are not._
