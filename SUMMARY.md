@@ -18,6 +18,7 @@
   * [Configure Project Settings](guides/configure-project-settings.md)
   * [Verify a Site CID](guides/verify-a-site-cid.md)
   * [Domain Configuration](guides/domain-configuration.md)
+  * [Site Analytics](guides/site-analytics.md)
   * [Verify Smart Contracts](guides/verify-smart-contracts.md)
 * [🖇 Community](community/README.md)
   * [Twitter](https://twitter.com/dApplingNetwork)
