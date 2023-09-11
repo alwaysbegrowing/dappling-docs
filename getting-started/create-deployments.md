@@ -11,7 +11,7 @@ There are two ways we deploy your app
 
 If you navigate to the deployments tab of your project, you’ll see two buttons to deploy your app manually. There is a preview and production build option.
 
-![](<../.gitbook/assets/image (31).png>)
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 #### Production
 

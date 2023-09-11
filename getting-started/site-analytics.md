@@ -17,7 +17,7 @@ npm i dappling-analytics
 yarn install dappling-analytics
 ```
 
-2. Inject the Analytics script to your app
+2. Inject the Analytics script to your app (make sure to import it from the react directory)
 
 ```
 import { Analytics } from 'dappling-analytics/react'

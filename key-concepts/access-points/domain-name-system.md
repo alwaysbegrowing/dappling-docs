@@ -1,12 +1,8 @@
-# Access Points
-
-### Overview
-
-For protocols to develop and thrive, their content must be generally accessible. Since IPFS does not use the HTTP standard, dAppling is particularly concerned about providing easy access points for our users.&#x20;
+# Domain Name System
 
 ### Domain Management
 
-Domain management is one method of creating an access point. It involves the process of managing and maintaining domain names and their related services. dAppling offers domain management from within our UI to make domains and deployments easy and quick to manage.
+Domain management is one method of creating an access point. It involves the process of managing and maintaining domain names and their related services. dAppling offers traditional domain management from within our UI to make domains and deployments easy and quick to manage.
 
 #### Understanding Domain Management
 
@@ -44,4 +40,4 @@ Accessibility is a cornerstone of developing and thriving protocols, especially 
 
 
 
-:cactus:_Fun Fact: The world's smallest flowering plant is the Wolffia, also known as the watermeal. These tiny flowers are just 0.3mm long and are often mistaken for dust on the surface of the water._
+:cactus:_Fun Fact: The Square Foot method of gardening allows you to grow more in less space by using a grid system. One square foot garden can potentially produce the same yield as a traditional garden five times its size._

@@ -51,6 +51,8 @@ You’ll see the recommendation is `npx next build && npx next export` which use
 
 **Which branch is your production branch?** finally a straight-forward setting! This should be the branch that has the “live” or “production” code for your app. This will be used for what we call “production deployments” and are pushed out to your configured domains.
 
+**Node Version** is the NodeJS version used in your project. By default, we build projects using version 18 (version 16 for Create React App projects). If your project requires a different version, make sure to select that version or it will not build correctly. If you are unsure what version is required for your project, run `node -v` in your terminal or check the `engines` section of your `package.json` file.&#x20;
+
 **Root Directory** is the place in your GitHub repository where the entrypoint of your code is. That usually means it’s either the place where your “package.json” file is located or the “index.html” file of your static site.
 
 Again, if you need any help, please reach out. We want to improve this process as much as we can!

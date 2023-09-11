@@ -1,9 +1,9 @@
 # FAQs
 
 1. How do I......?
-   * Check out our [Guides](../guides/) section for step-by-steps on interacting with dAppling. If none of our guides meet your needs, or you still have questions, send us a dm on [Twitter](https://twitter.com/dApplingNetwork) or message us through our Intercom chatbot.
+   * Check out our [Getting Started](../getting-started/) section for step-by-steps on interacting with dAppling. If none of our guides meet your needs, or you still have questions, send us a dm on [Twitter](https://twitter.com/dApplingNetwork) or message us through our Intercom chatbot.
 2. What is.....?
-   * Check out our [Key Concepts](../key-concepts/) section for a brief overview of some important concepts. Something missing? Connect with us on [Twitter](https://twitter.com/dApplingNetwork) to let us know!
+   * Check out our [Key Concepts](../key-concepts/) section for a brief overview of some important concepts. Something missing? Connect with us on [Twitter](https://twitter.com/dApplingNetwork) or Intercom to let us know!
 3.  My site deployed successfully, but when I try to access the deployment URL, I get a 504 error.&#x20;
 
     * This can happen for a variety of reasons, including the IPFS node pinning your CID being down or out of service, issues with the IPFS gateway, or a high network latency between the you and the node. This does not mean that your content is lost or inaccessible! One potential solution is to use a different [gateway](https://docs.ipfs.tech/concepts/ipfs-gateway/#gateway-providers). Select a gateway from this [list](https://ipfs.github.io/public-gateway-checker/) and append it to your url.&#x20;
