@@ -14,10 +14,10 @@ Add the [dappling-analytics package](https://github.com/alwaysbegrowing/dappling
 
 ```bash
 npm i dappling-analytics
-yarn install dappling-analytics
+yarn add dappling-analytics
 ```
 
-2. Inject the Analytics script to your app (make sure to import it from the react directory)
+2. Inject the Analytics component into your app by adding it to your project's root (make sure to import it from the react directory). This component injects a script into your app every time a page loads that tracks the page view and user information. The information is sent to and stored in dAppling's database and displayed in the `Analytics` tab of your project.
 
 ```
 import { Analytics } from 'dappling-analytics/react'
