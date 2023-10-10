@@ -3,7 +3,6 @@
 * [🌱 Introduction](README.md)
 * [🌐 Basics](basics/README.md)
   * [Web3 Features](basics/web3-features.md)
-  * [Roadmap](basics/roadmap.md)
   * [FAQs](basics/faqs.md)
 * [🗝 Key Concepts](key-concepts/README.md)
   * [Web Hosting](key-concepts/web-hosting.md)
