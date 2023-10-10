@@ -2,9 +2,9 @@
 description: Find answers to some of the most frequently asked questions
 ---
 
-# FAQs
+# ❓ FAQs
 
-The [Getting Started](../getting-started/) section and [Key Concepts](../key-concepts/) answers many common questions. If you have questions that are not answered send us a message on [Twitter](https://twitter.com/dApplingNetwork). We answer all DMs.&#x20;
+The [Getting Started](getting-started/) section and [Key Concepts](learn/) answers many common questions. If you have questions that are not answered send us a message on [Twitter](https://twitter.com/dApplingNetwork). We answer all DMs.&#x20;
 
 ### My site deployed successfully, but when I try to access the deployment URL, I get a 504 error.&#x20;
 
@@ -28,7 +28,7 @@ DM us on [Twitter](https://twitter.com/dApplingNetwork). Our goal is to bring yo
 
 ### I don't see the chatbot and I have a problem!
 
-* Some plugins, extensions, and browsers interfere with Intercom and its chatbot. If it doesn't render, try using a private/incognito window, a different browser, or turn off extensions. If it still doesn't load, dm us on [Twitter](https://twitter.com/dApplingNetwork).&#x20;
+Some plugins, extensions, and browsers interfere with Intercom and its chatbot. If it doesn't render, try using a private/incognito window, a different browser, or turn off extensions. If it still doesn't load, dm us on [Twitter](https://twitter.com/dApplingNetwork).&#x20;
 
 
 
