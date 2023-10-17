@@ -10,12 +10,4 @@ description: >-
 ## Creating a project
 
 1. Navigate to the projects page
-2. Click the New Project button
-
-## Managing a project
-
-## Project settings
-
-## Custom Domains
-
-## Deleting a project
+2. Click the [New Project](https://dappling.network/new) button
