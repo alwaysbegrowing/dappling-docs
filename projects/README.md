@@ -1,8 +1,7 @@
 ---
 description: >-
   To deploy on dAppling, you need to create a Project, which groups deployments
-  and custom domains. Learn how to set up and configure projects with this
-  guide.
+  and custom domains.
 ---
 
 # Projects
