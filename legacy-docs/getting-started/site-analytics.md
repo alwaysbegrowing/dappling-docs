@@ -66,6 +66,6 @@ Your site is now configured with site analytics and you can watch the views roll
 
 To view your analytics, navigate to the project page on [dAppling.network](https://dappling.network) and select the 'analytics' tab. Here you can view the total number of page views for your entire site, the total number of users, the number of views per page, and your page views over time. Change the time frame for the analytics by using the dropdown menu in the top righthand corner of the page.
 
-<figure><img src="../.gitbook/assets/CleanShot 2023-08-15 at 10.21.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2023-08-15 at 10.21.54.png" alt=""><figcaption></figcaption></figure>
 
 :cactus:_Fun Fact: The Silene stenophylla, a type of campion flower, was grown from a 32,000-year-old seed discovered in Siberian permafrost._

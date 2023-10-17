@@ -2,7 +2,7 @@
 
 The “Settings” tab on the project has the configuration that is used upon every deployment.
 
-<figure><img src="../.gitbook/assets/CleanShot 2023-09-06 at 11.57.18@2x (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2023-09-06 at 11.57.18@2x (1).png" alt=""><figcaption></figcaption></figure>
 
 There is the **build commands** that modify the way your project is built. If something doesn’t seem right on your app’s output on the site, you may have to modify these settings.
 

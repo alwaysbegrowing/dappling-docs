@@ -4,17 +4,17 @@
 
 On your dashboard, your projects will be empty. After you create a project, this dashboard will show all of the projects that exist. After the first one is added, the main button will disappear, but there is always the “+ New Project” button near your username.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 On the new project magician, you will first need to connect an account. On subsequent project deployments, all of the repos that you authorize here will be available and will not need to be re-added. After clicking connect account, a pop-up will ask to give permissions. These permissions affect the repositories that you explicitly allow.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 After you’ve connected your repositories, you will see your accounts in the account dropdown. Select the one with the repo you want to deploy.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### Configure your app’s settings
 
@@ -22,15 +22,15 @@ Nice! Now we should be seeing a screen with one of two things.
 
 1. we have not detected your project type. You will see only a framework selector.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 2. we have detected your project! You will see some of the build commands partially filled out
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 In either case, you should select and double check the settings for your project. If you need help selecting the settings, there are some informational bubbles next to each for more information.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### Build commands.
 
@@ -61,21 +61,21 @@ Again, if you need any help, please reach out. We want to improve this process a
 
 After that is all configured, go to the next page. If there are red errors, your project will likely not deploy. Yellow warnings will likely deploy, but highlight problems potentially worth looking into.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 You will be presented with the deployment screen which means that your app is being built. After it is complete the page will refresh showing that the build process is complete.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on “View Logs” will take you to the deployment page where you can view the progress of the actual deployment.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 #### Celebrate?
 
 Shortly after, your first project should be deployed! woo hoo!
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 If this screen doesn’t appear so happy, something must have gone wrong. Again, please reach out as we’re trying to improve our app.
 

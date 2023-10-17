@@ -11,7 +11,7 @@ There are two ways we deploy your app
 
 If you navigate to the deployments tab of your project, you’ll see two buttons to deploy your app manually. There is a preview and production build option.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 #### Production
 
@@ -26,15 +26,15 @@ For example, if you configured a domain at [https://ipfs.example.com](https://ip
 
 For each preview build, we go through the same build process as well as using the production branch, but the production domain as well as the configured domains in the domains tab are not updated. instead, we create a newly generated preview url that looks like [https://chive-lily-zfiuy3b.dappling.network](https://chive-lily-zfiuy3b.dappling.network) This preview URL will never be updated again.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 #### Project page while deploying
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 #### Deployment page while deploying
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ### GitHub Deployment
 
@@ -44,17 +44,17 @@ Like the manual deployment we have production and preview deployments through Gi
 
 On any push to “main” including when a PR is merged into main, a production deployment is kicked off. You can see this in the project’s deployments.
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 #### Preview
 
 When a PR is created and any subsequent pushes to the PR, a preview build is created. This preview build is visible in your project’s deployments as well. It will notify you that it is building first.
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 After it’s built, you can view the preview URL right in the PR.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 
 
