@@ -48,3 +48,7 @@ For more details, refer to the documentation on manually specifying a package ma
 ## Root Directory
 
 In some projects, the top-level directory of the repository may not be the root directory of the app you'd like to build. For instance, your repository might contain a front-end directory with a standalone Next.js app. For such scenarios, you can specify the project's Root Directory.&#x20;
+
+
+
+:cactus:_Fun Fact: The concept of a "Zen garden" originated in Japan and is meant to imitate the essence of nature, not its actual appearance._

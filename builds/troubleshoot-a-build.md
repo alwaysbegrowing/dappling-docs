@@ -24,3 +24,7 @@ It is advisable to build your project on your local machine first, using the bui
 The total build duration is shown on the deployments page.
 
 Please note that a build can last a maximum of 25 minutes. If the build exceeds this time limit, the deployment will be canceled, and the error will be shown in the Deployment's Build logs. If you encounter this limit, reach out to our support.
+
+
+
+:cactus:_Fun Fact: A group of orchids is known as a "blue," while a group of cacti is known as a "forest."_

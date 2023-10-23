@@ -53,4 +53,6 @@ Preview Branches, as the name implies, serve the purpose of previewing changes b
 
 Once you're satisfied with your changes, you can proceed to merge the respective Preview Branch into your Production Branch.
 
-#### [ ](https://vercel.com/docs/deployments/git#multiple-preview-phases)
+
+
+:cactus:_Fun Fact: The smell of freshly-cut grass is actually a plant distress call, signaling damage to other plants._

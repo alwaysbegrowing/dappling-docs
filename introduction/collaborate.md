@@ -13,3 +13,7 @@ Here's a helpful tip:
 * dAppling provides a URL reflecting the latest commits on that branch, accessible on your dashboard or in a pull request, as you'll see in the next step.
 
 This connection was automatically established for you, so simply push your commits, and you'll start receiving links to deployments right in GitHub.
+
+
+
+:cactus:_Fun Fact: There is a species of orchid that looks like a monkey's face, appropriately called the Monkey Face Orchid._

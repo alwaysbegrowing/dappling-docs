@@ -4,7 +4,7 @@ description: Find answers to some of the most frequently asked questions
 
 # FAQs
 
-The [Getting Started](legacy-docs/getting-started/) section and [Key Concepts](legacy-docs/learn/) answers many common questions. If you have questions that are not answered send us a message on [Twitter](https://twitter.com/dApplingNetwork). We answer all DMs.&#x20;
+If you have questions that are not answered in the docs, send us a message on [Twitter](https://twitter.com/dApplingNetwork). We answer all DMs.&#x20;
 
 ### My site deployed successfully, but when I try to access the deployment URL, I get a 504 error.&#x20;
 

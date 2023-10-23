@@ -16,3 +16,7 @@ It's important to be aware of certain build limitations on dAppling:
 * The build container is allocated a specific amount of resources that can be increased by reaching out to our support.
 
 These limitations are essential to consider when working with dAppling to ensure your deployments run smoothly within the specified constraints.
+
+
+
+:cactus:_Fun Fact: Bamboo is the fastest-growing plant; some species can grow up to 35 inches in a single day._

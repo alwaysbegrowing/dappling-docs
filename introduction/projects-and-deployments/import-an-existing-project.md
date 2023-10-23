@@ -6,7 +6,7 @@ Your existing project can be any web project that generates static HTML content,
 
 On the [New Project](https://dappling.network/new) page, click on the Connect Repo button.
 
-Follow the prompts to sign in to your [GitHub](../../deployments/git-integrations/dapping-for-github.md)
+Follow the prompts to sign in to your [GitHub](../../deployments/git-integrations/dappling-for-github.md)
 
 ## 2. Import your repository
 
@@ -26,3 +26,7 @@ Click the Deploy button, and dAppling will create the Project and initiate the d
 ## 5. Share Project
 
 To access your deployment, navigate to the dashboard, choose the Project, and then select the Production Domain. The page is now accessible to anyone with the URL.
+
+
+
+:cactus:_Fun Fact: "Guerrilla gardening" is the act of planting flowers and veggies in public spaces to beautify or utilize them._

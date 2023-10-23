@@ -23,3 +23,7 @@ If you wish to manually specify a package manager for all deployments in your pr
 1. Navigate to your dashboard and select your project.
 2. Select the Settings tab.
 3. Add your desired install command. Once saved, it will be applied in your next deployment.
+
+
+
+:cactus:_Fun Fact: The world's most poisonous plant is the castor bean plant; just one bean can kill a human._

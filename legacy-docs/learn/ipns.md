@@ -44,3 +44,7 @@ dAppling uses IPNS to make assigning the content hash of your ENS name cheap and
 
 IPNS provides a critical layer of functionality atop IPFS, enabling mutable pointers to immutable content. It offers the best of both worlds, combining the permanence and integrity of CIDs with the flexibility of mutable identifiers.
 
+
+
+:cactus:_Fun Fact: The idea of "square foot gardening" was popularized by Mel Bartholomew in the 1970s. It's a way to grow more in less space._
+

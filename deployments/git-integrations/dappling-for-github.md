@@ -1,4 +1,4 @@
-# dApping for Github
+# dAppling for Github
 
 dAppling for GitHub automates the deployment of your GitHub projects with dAppling. It offers Preview Deployment URLs and automatic updates for Custom Domains.
 
@@ -22,3 +22,7 @@ When[ Custom Domains](../../domains.md) are configured through a project's domai
 ## Preview URLs for the Latest Changes for Each Pull Request
 
 The most recent push to any pull request will be automatically accessible at a unique preview URL. This URL is derived from the project name, branch, and team or username. You can find these URLs conveniently provided through a comment on each pull request.
+
+
+
+:cactus:_Fun Fact: The stinging nettle has tiny, hair-like needles that inject histamine and other chemicals when touched, causing that well-known stinging sensation._

@@ -36,3 +36,9 @@ Learn more in [our dAppling Analytics docs](../legacy-docs/getting-started/site-
 The Settings tab enables you to configure your project. You can modify the project's name, specify its root directory, configure environment variables, and more directly within the dashboard.
 
 Learn more in [our project settings docs.](../legacy-docs/getting-started/configure-project-settings.md)
+
+
+
+:cactus:_Fun Fact: Some plants can "hear" the sound of water and grow their roots towards it._
+
+\
