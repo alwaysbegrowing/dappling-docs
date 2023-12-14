@@ -10,7 +10,7 @@ On dAppling, your custom domain can take any format you choose:
 
 You must already own a domain to use it with dAppling.
 
-For more details on domains with dAppling, check out the [Domains](../domains/) overview.
+For more details on domains with dAppling, check out the [Domains](../domains.md) overview.
 
 
 

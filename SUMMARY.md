@@ -16,7 +16,7 @@
   * [Configure a Build](builds/configure-a-build.md)
   * [Build Logs](builds/build-logs.md)
   * [Troubleshoot a Build](builds/troubleshoot-a-build.md)
-* [Domains](domains/README.md)
+* [Domains](domains.md)
   * [ENS](domains/ens.md)
   * [DNS](domains/dns.md)
 * [FAQs](faqs.md)

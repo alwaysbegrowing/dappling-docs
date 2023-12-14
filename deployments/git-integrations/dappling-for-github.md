@@ -17,7 +17,7 @@ With each new push, if dAppling is already building a previous commit, the curre
 
 ## Updating the Production Domain
 
-When[ Custom Domains](../../domains/) are configured through a project's domains dashboard, any pushes or merges to the Production Branch (often named "main") will make the latest deployment from a push live on those domains.
+When[ Custom Domains](../../domains.md) are configured through a project's domains dashboard, any pushes or merges to the Production Branch (often named "main") will make the latest deployment from a push live on those domains.
 
 ## Preview URLs for the Latest Changes for Each Pull Request
 

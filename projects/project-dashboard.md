@@ -22,7 +22,7 @@ The project dashboard allows you to manage all your current and previous deploym
 
 Each project has the ability for custom DNS or ENS domains.&#x20;
 
-Lean more in [our Domains docs.](../domains/)
+Lean more in [our Domains docs.](../domains.md)
 
 ## Analytics
 
