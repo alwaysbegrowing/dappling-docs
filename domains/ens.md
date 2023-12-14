@@ -1,3 +1,7 @@
+---
+description: dAppling has support for both ENS and DNS domains.
+---
+
 # ENS
 
 ## Introduction to Ethereum Name Service (ENS)
