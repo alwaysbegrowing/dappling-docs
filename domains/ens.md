@@ -43,3 +43,7 @@ Front-end hacks, as seen in recent incidents with platforms like Balancer, Velod
 3. **Reduced Risk of DNS Hijacking**: Since ENS domains are blockchain-based, they are not susceptible to traditional DNS hijacking methods. The control of an ENS domain is determined by the possession of a corresponding private key, making unauthorized changes to DNS records significantly more challenging.
 4. **Ownership and Control**: ENS domains provide users with full ownership and control over their domain. Unlike traditional domain names, where the registrar has ultimate control, ENS domain owners have complete authority over their domain without any intermediary.
 5. **Transparent and Immutable Record Keeping**: All changes and transactions made in ENS are recorded on the Ethereum blockchain, ensuring transparency and immutability. This feature aids in tracking and verifying any alterations made to a domain, providing an additional layer of security.
+
+
+
+:cactus:_Fun Fact: Scientists have resurrected a plant that woolly mammoths used to eat, called Silene stenophylla, from 32,000-year-old seeds._
